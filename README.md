@@ -1,4 +1,10 @@
 ### Hi there👋
+<span style=" font: italic bold 1.5em/1em Georgia, serif ;">
+여기는 폰트 속성을 한꺼번에 주었다
+</span>
+<font size="2em" color="green">
+이 글자는 font 태그로 속성을 주었다
+</font>
 
 <!--
 **yeclairer/yeclairer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

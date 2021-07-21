@@ -1,5 +1,5 @@
 ### Hi there👋
-# Design Management & Computer Science 
+ Design Management & Computer Science 
 
 <!--
 **yeclairer/yeclairer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
